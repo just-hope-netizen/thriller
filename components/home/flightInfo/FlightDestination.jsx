@@ -6,7 +6,7 @@ const FlightDestination = () => {
   return (
     <div className='flex flex-col w-[350px]'>
       <section className='ml-5 bg-secondaryBg pt-5 px-4 rounded-t-3xl  '>
-        <button className='flex justify-between uppercase text-white'>
+        <button className='flex justify-between w-full uppercase text-white'>
           <span>from </span>
           <span>to </span>
         </button>
